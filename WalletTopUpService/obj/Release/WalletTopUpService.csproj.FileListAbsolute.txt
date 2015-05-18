@@ -1,0 +1,10 @@
+G:\oxigen_wallet_platform\branches\admin_service\WalletTopUpService\WalletTopUpService\WalletTopUpService\bin\Release\WalletTopUpService.dll.config
+G:\oxigen_wallet_platform\branches\admin_service\WalletTopUpService\WalletTopUpService\WalletTopUpService\bin\Release\WalletTopUpService.dll
+G:\oxigen_wallet_platform\branches\admin_service\WalletTopUpService\WalletTopUpService\WalletTopUpService\bin\Release\WalletTopUpService.pdb
+G:\oxigen_wallet_platform\branches\admin_service\WalletTopUpService\WalletTopUpService\WalletTopUpService\bin\Release\WalletTopUp.Contract.dll
+G:\oxigen_wallet_platform\branches\admin_service\WalletTopUpService\WalletTopUpService\WalletTopUpService\bin\Release\WalletTopUp.Data.dll
+G:\oxigen_wallet_platform\branches\admin_service\WalletTopUpService\WalletTopUpService\WalletTopUpService\bin\Release\WalletTopUp.Contract.pdb
+G:\oxigen_wallet_platform\branches\admin_service\WalletTopUpService\WalletTopUpService\WalletTopUpService\bin\Release\WalletTopUp.Data.pdb
+G:\oxigen_wallet_platform\branches\admin_service\WalletTopUpService\WalletTopUpService\WalletTopUpService\obj\Release\WalletTopUpService.csprojResolveAssemblyReference.cache
+G:\oxigen_wallet_platform\branches\admin_service\WalletTopUpService\WalletTopUpService\WalletTopUpService\obj\Release\WalletTopUpService.dll
+G:\oxigen_wallet_platform\branches\admin_service\WalletTopUpService\WalletTopUpService\WalletTopUpService\obj\Release\WalletTopUpService.pdb
